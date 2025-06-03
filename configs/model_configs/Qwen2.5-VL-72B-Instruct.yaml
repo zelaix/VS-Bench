@@ -1,0 +1,7 @@
+type: local
+params:
+  name: Qwen2.5-VL-72B-Instruct
+  version: Qwen2.5-VL-72B-Instruct
+
+  temperature: 1
+  max_response_tokens: 32768

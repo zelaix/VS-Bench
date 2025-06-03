@@ -1,0 +1,10 @@
+type: ark
+params:
+  name: doubao-1-5-vision-pro
+  version: doubao-1-5-vision-pro-250328
+
+  temperature: 1
+  max_response_tokens: 16384
+
+  input_price_per_1M_tokens: 0.41
+  output_price_per_1M_tokens: 1.23

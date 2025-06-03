@@ -1,0 +1,3 @@
+type: cot_agent
+params:
+  max_errors: 20

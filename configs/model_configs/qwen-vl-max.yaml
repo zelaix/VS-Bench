@@ -1,0 +1,10 @@
+type: openai
+params:
+  name: qwen-vl-max
+  version: qwen-vl-max-2025-04-08
+
+  temperature: 1
+  max_response_tokens: 32768
+
+  input_price_per_1M_tokens: 0.416
+  output_price_per_1M_tokens: 1.249

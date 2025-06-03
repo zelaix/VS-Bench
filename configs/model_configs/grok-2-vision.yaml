@@ -1,0 +1,10 @@
+type: openai
+params:
+  name: grok-2-vision
+  version: grok-2-vision-1212
+
+  temperature: 1
+  max_response_tokens: 8192
+
+  input_price_per_1M_tokens: 2
+  output_price_per_1M_tokens: 10

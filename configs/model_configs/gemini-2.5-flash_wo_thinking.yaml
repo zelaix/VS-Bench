@@ -1,0 +1,10 @@
+type: google
+params:
+  name: gemini-2.5-flash_wo_thinking
+  version: gemini-2.5-flash-preview-04-17
+
+  temperature: 1
+  max_response_tokens: 65536
+
+  input_price_per_1M_tokens: 0.15
+  output_price_per_1M_tokens: 0.6

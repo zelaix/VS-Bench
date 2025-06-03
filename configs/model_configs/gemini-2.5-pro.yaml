@@ -1,0 +1,12 @@
+type: google
+params:
+  name: gemini-2.5-pro
+  version: gemini-2.5-pro-preview-03-25
+
+  temperature: 1
+  max_response_tokens: 16384
+  reasoning_model: true
+  max_reasoning_tokens: 49152
+
+  input_price_per_1M_tokens: 1.25
+  output_price_per_1M_tokens: 10

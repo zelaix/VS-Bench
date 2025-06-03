@@ -1,0 +1,12 @@
+type: ark
+params:
+  name: doubao-1-5-thinking-pro-m
+  version: doubao-1-5-thinking-pro-m-250415
+
+  temperature: 1
+  max_response_tokens: 16384
+  reasoning_model: true
+  max_reasoning_tokens: 16000
+
+  input_price_per_1M_tokens: 0.55
+  output_price_per_1M_tokens: 2.19

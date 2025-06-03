@@ -1,0 +1,12 @@
+experiment:
+  name: default
+  seed: 0
+  async_mode: true
+  results_dir: results
+  batch_size: 400
+
+agent:
+  type: prompt_agent
+  params:
+    model: gpt-4.1
+    visual_obs: true

@@ -1,0 +1,4 @@
+type: overcooked
+params:
+  layout_name: cramped_room
+  max_steps: 50

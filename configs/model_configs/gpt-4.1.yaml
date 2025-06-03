@@ -1,0 +1,10 @@
+type: openai
+params:
+  name: gpt-4.1
+  version: gpt-4.1-2025-04-14
+
+  temperature: 1
+  max_response_tokens: 32768
+
+  input_price_per_1M_tokens: 2
+  output_price_per_1M_tokens: 8

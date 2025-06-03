@@ -1,0 +1,7 @@
+type: battle_of_the_colors
+params:
+  grid_size: 5
+  max_steps: 50
+  egocentric: false
+  additional_info: true
+  recording_type: gif

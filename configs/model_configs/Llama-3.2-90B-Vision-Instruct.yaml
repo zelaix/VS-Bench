@@ -1,0 +1,7 @@
+type: local
+params:
+  name: Llama-3.2-90B-Vision-Instruct
+  version: Llama-3.2-90B-Vision-Instruct
+
+  temperature: 1
+  max_response_tokens: 32768

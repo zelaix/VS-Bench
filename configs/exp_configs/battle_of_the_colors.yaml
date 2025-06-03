@@ -1,0 +1,19 @@
+experiment:
+  name: default
+  seed: 0
+  async_mode: true
+  num_episodes: 10
+  results_dir: results
+
+environment: battle_of_the_colors
+
+agents:
+  - type: prompt_agent
+    params:
+      model: gpt-4.1
+      visual_obs: true
+
+  - type: prompt_agent
+    params:
+      model: gpt-4.1
+      visual_obs: true

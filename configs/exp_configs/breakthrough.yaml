@@ -1,0 +1,16 @@
+experiment:
+  name: default
+  seed: 0
+  async_mode: true
+  num_episodes: 10
+  results_dir: results
+
+environment: breakthrough
+
+agents:
+  - type: prompt_agent
+    params:
+      model: gpt-4.1
+      visual_obs: true
+
+  - type: mcts_agent

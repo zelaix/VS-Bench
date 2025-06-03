@@ -1,0 +1,13 @@
+type: openai
+params:
+  name: qvq-max
+  version: qvq-max-2025-03-25
+
+  temperature: 1
+  max_response_tokens: 8192
+  reasoning_model: true
+  max_reasoning_tokens: 24486
+  stream: true
+
+  input_price_per_1M_tokens: 1.11
+  output_price_per_1M_tokens: 4.44

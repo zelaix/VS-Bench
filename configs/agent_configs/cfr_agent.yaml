@@ -1,0 +1,3 @@
+type: cfr_agent
+params:
+  num_iterations: 1000

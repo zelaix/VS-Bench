@@ -1,0 +1,11 @@
+type: atari_pong
+params:
+  max_episode_steps: 1000
+  winning_score: 3
+  max_observation: false
+  resize_frame: false
+  color_reduction: false
+  normalize_obs: false
+  stack_frame: 4
+  noop_start: true
+  recording_type: gif

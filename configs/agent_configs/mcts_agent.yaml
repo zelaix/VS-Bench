@@ -1,0 +1,6 @@
+type: mcts_agent
+params:
+  uct_c: 2.0                   
+  max_simulations: 100
+  rollout_count: 10
+  seed: 0

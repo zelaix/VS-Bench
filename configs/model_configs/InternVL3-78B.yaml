@@ -1,0 +1,7 @@
+type: local
+params:
+  name: InternVL3-78B
+  version: InternVL3-78B
+
+  temperature: 1
+  max_response_tokens: 8192

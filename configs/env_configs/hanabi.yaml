@@ -1,0 +1,8 @@
+type: hanabi
+params:
+  players: 2
+  colors: 5
+  ranks: 5
+  hand_size: 5
+  max_information_tokens: 8
+  max_life_tokens: 3

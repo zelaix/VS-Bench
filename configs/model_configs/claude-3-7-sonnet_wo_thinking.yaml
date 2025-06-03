@@ -1,0 +1,10 @@
+type: anthropic
+params:
+  name: claude-3-7-sonnet_wo_thinking
+  version: claude-3-7-sonnet-20250219
+
+  temperature: 1
+  max_response_tokens: 64000
+
+  input_price_per_1M_tokens: 3
+  output_price_per_1M_tokens: 15
