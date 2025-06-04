@@ -9,7 +9,7 @@
 
 ## 📝 Overview
 
-![overview_00](https://github.com/user-attachments/assets/ff3da760-20b0-4cdd-9071-5d92de0de6a1)
+![overview](images/overview.png)
 
 **Overview of the VS-Bench**.  VS-Bench is a multimodal benchmark for evaluating VLMs in multi-agent environments. We evaluate fourteen state-of-the-art models in eight vision-grounded environments with two complementary dimensions, including offline evaluation of strategic reasoning by next-action prediction accuracy and online evaluation of decision-making by normalized episode return.
 
