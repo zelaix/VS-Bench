@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://vs-bench.github.io">Website</a> |
-  <a href="">Paper (coming soon)</a> |
+  <a href="https://arxiv.org/abs/2506.02387">Paper</a> |
   <a href="https://huggingface.co/datasets/zelaix/VS-Bench">Dataset</a>
 </p>
 
@@ -99,7 +99,7 @@ Replace `<exp_name>` with one of the environment name provided in the `./configs
 @article{xu2025vs,
   title={VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments},
   author={Xu, Zelai and Xu, Zhexuan and Yi, Xiangmin and Yuan, Huining and Chen, Xinlei and Wu, Yi and Yu, Chao and Wang, Yu},
-  journal={coming soon},
+  journal={arXiv preprint arXiv:2506.02387},
   year={2025}
 }
 ```
